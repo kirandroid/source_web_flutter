@@ -172,7 +172,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Padding(
               padding: const EdgeInsets.all(18.0),
               child: Text(
-                "Some Thing for placeholder",
+                "Placeholder Placeholder Placeholder",
                 style: TextStyle(
                   fontSize: 20,
                 ),
